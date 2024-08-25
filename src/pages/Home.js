@@ -10,9 +10,7 @@ const Home = () => {
           <p className="hero-description">
             Passionate about building scalable data-driven applications using cutting-edge technologies.
           </p>
-          <button className="cta-button">
-            <a className="link-button" href="website/projects">View My Projects</a>
-          </button>
+    
         </div>
       </section>
     </div>
