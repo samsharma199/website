@@ -11,7 +11,7 @@ const Home = () => {
             Passionate about building scalable data-driven applications using cutting-edge technologies.
           </p>
           <button className="cta-button">
-            <a className="link-button" href="/projects">View My Projects</a>
+            <a className="link-button" href="#/projects">View My Projects</a>
           </button>
         </div>
       </section>
